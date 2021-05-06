@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "498602142822",
+    "project_id": "shukrann-bcb21",
+    "storage_bucket": "shukrann-bcb21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498602142822:android:67a83f5cf18168069ad1a7",
+        "android_client_info": {
+          "package_name": "com.example.shukran"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498602142822-nrup7vrgfri13cdldqr251eicbpt1k3f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf3UjnNlixXisWm-H2dkKIi6K35O10jkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498602142822-nrup7vrgfri13cdldqr251eicbpt1k3f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
